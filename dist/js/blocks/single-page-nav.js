@@ -1,0 +1,1 @@
+let blog_table=document.querySelector("#table");function navFixed(){210<document.body.scrollTop||210<document.documentElement.scrollTop?(blog_table.style.position="fixed",blog_table.style.top="170px",blog_table.style.zIndex="-10"):(blog_table.style.position="relative",blog_table.style.top="inherit",blog_table.style.zIndex="0")}window.onscroll=function(){navFixed()};

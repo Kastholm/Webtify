@@ -1,0 +1,1 @@
+VANTA.FOG({el:".vantajs",mouseControls:!0,touchControls:!0,gyroControls:!1,minHeight:200,minWidth:200,highlightColor:642143116,midtoneColor:15987699,lowlightColor:16777215,baseColor:14211288,blurFactor:.62,speed:.6,zoom:1.1});
